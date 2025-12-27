@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuuki-nagisa&label=Profile%20views&color=0e75b6&style=flat" alt="yuuki-nagisa" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuuki-Nagisa" alt="Yuuki-Nagisa" /></a> </p>
+<p align="left"> <a href="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yuuki-Nagisa"><img src="https://github-profile-trophy.vercel.app/?username=Yuuki-Nagisa" alt="Yuuki-Nagisa" /></a> </p>
 
 - 🔭 I’m currently working on **Full-Stack Java projects**
 
